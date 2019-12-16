@@ -39,7 +39,7 @@ public class ProductService {
     }
 
     /**
-     * Get all the products.
+     * Get all the products.findAll
      *
      * @param pageable the pagination information.
      * @return the list of entities.
